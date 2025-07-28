@@ -22,7 +22,7 @@ A **modern, sleek GUI-based keyboard tester** built using Python's `Tkinter` and
 
 ## 📸 Preview
 
-> preview.png
+> [preview.png](https://github.com/AnukalpVarshneyyy/KeyboardTester/blob/main/preview.png)
 
 ---
 
